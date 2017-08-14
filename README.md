@@ -1,6 +1,8 @@
 ### LevelDOWN for Mobile  
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Level/leveldown-mobile.svg)](https://greenkeeper.io/)
+
 - Leveldown for Android, iOS. Also works on Destkop with SpiderMonkey / v8 engine
 - Requires [JXcore](https://github.com/jxcore/jxcore) to run.
 
